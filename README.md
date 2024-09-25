@@ -1,6 +1,6 @@
 ## Overview
 
-Program Director for multi-year university campus network refresh program with over 100,000 campus infrastructure components in scope. Responsible for the overall technical program management, including strategy, schedule, and scope. Managed a team of network consultants and network engineers, and contractors to deliver the program on time and within budget. Developed and maintained relationships with key stakeholders, including chancellor's office staff, and campus administrations.
+Program Director for multi-year university campus network refresh program with over 100,000 campus infrastructure components. Responsible for the overall technical program management, including strategy, schedule, and scope. Managed a team of network consultants and network engineers, and contractors to deliver the program on time and within budget. Developed and maintained relationships with key stakeholders, including chancellor's office staff, and campus administrations.
 
 Worked with university IT staff to develop and implement a network refresh strategy that met the needs of the university's academic and administrative departments. Developed detailed technical approach, work breakdown task templates for designs, staging, configuration, deployment, migration, and turn-up for all phases of the campus-level refresh project.
 

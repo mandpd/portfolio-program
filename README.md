@@ -66,11 +66,13 @@ This (partially-redacted) page shows the current device configuration file on th
 
 <!-- Modal Structure -->
 <div id="myModal" class="modal">
-    <span class="close" onclick="closeModal()">&times;</span>
-    <img class="modal-content" id="modalImage">
+    <img class="modal-content" id="modalImage" onclick="closeModal()">
 </div>
 
 <style>
+.body {
+    zoom: 1.5;
+}
 .modal {
     display: none;
     position: fixed;
@@ -81,7 +83,6 @@ This (partially-redacted) page shows the current device configuration file on th
     width: 100%;
     height: 100%;
     overflow: auto;
-    background-color: rgb(0,0,0);
     background-color: rgba(0,0,0,0.9);
 }
 
@@ -90,24 +91,10 @@ This (partially-redacted) page shows the current device configuration file on th
     display: block;
     width: 80%;
     max-width: 700px;
-}
-
-.close {
-    position: absolute;
-    top: 15px;
-    right: 35px;
-    color: #f1f1f1;
-    font-size: 40px;
-    font-weight: bold;
-    transition: 0.3s;
-}
-
-.close:hover,
-.close:focus {
-    color: #bbb;
-    text-decoration: none;
     cursor: pointer;
 }
+
+/* Remove the close button styles as it's no longer needed */
 </style>
 
 <script>
